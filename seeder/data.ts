@@ -149,7 +149,7 @@ export const rooms = [
     description:
       "Our largest room with a queen bed and foldable sofa. Comfortably fits 2-3 adults, four adults maximum. Decorated with Irish-themed colors and arts. It has a private bathroom with a shower, equipped with smart TV, mini-fridge, desk, chairs. Enjoy City views at the sitting area by the window. Located on the 3rd floor with no elevator.",
     address: "1029  Godfrey Street, Portland, OR, 97205",
-    guestCapacity: 2,
+    guestCapacity: 4,
     numOfBeds: 5,
     isInternet: true,
     isBreakfast: true,
